@@ -1,0 +1,10 @@
+{
+  "name": "DISC Website",
+  "short_name": "DISC",
+  "theme_color": "#9d102e",
+  "background_color": "#f3f121",
+  "display": "browser",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}
